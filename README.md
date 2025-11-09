@@ -50,9 +50,11 @@ print(result)
 ```
 
 ## Output:
-![image](https://github.com/user-attachments/assets/301f0959-2254-4c63-8313-da0630a10803)
+<img width="1220" height="928" alt="image" src="https://github.com/user-attachments/assets/513fe34d-20aa-4fab-bea4-f3cdf1826182" />
 
-![image](https://github.com/user-attachments/assets/a0869c3d-b91b-4a4c-95df-447207045bbe)
+
+<img width="1236" height="790" alt="image" src="https://github.com/user-attachments/assets/4669761f-becc-4a1c-ba63-a7aab4791a72" />
+
 
 
 ## Result:
